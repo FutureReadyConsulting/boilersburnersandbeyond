@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icons/why_chose_us_1.svg",   
+    "title": "24/7 Availability",
+    "desc": "We’re here when you need us most. Our team offers emergency services around the clock, ensuring you never have to suffer through discomfort."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_5.svg",   
+    "title": "Customer-Centric Approach",
+    "desc": "Your comfort is our top priority. We take the time to understand your unique needs and provide tailored solutions that exceed your expectations."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_3.svg",   
+    "title": "Transparent Pricing",
+    "desc": "No hidden fees or surprises—just honest, upfront pricing. We provide detailed estimates so you know exactly what to expect."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_4.svg",   
+    "title": "Energy Efficiency Experts",
+    "desc": "We specialize in energy-efficient solutions that not only keep you comfortable but also save you money on utility bills. Trust us to help you make eco-friendly choices."
+  }   
+]

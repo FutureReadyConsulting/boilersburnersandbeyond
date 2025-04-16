@@ -1,0 +1,26 @@
+[
+  {
+    "bgImg": "/assets/img/hero_bg_1.jpg",
+    "subTitle": "Heating, Boilers & Air Conditioning",
+    "title": "Total Home Climate Care",
+    "desc": "From cooling to heating, we offer comprehensive climate control solutions that keep your home comfortable and energy-efficient",
+    "img": "/assets/img/hero_img_1.png",    
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_2.jpg",
+    "subTitle": "Heating, Boilers & Air Conditioning",
+    "title": "Fast System Repair Specialists",
+    "desc": "Our skilled technicians are on standby 24/7, ready to solve any issues and restore your comfort",
+    "img": "/assets/img/hero_img_2.png",    
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_3.jpg",
+    "subTitle": "Heating, Boilers & Air Conditioning",
+    "title": "Cozy Homes Start Here",
+    "desc": "Creating warm and inviting spaces with our expert heating solutions, designed for comfort and peace of mind",
+    "img": "/assets/img/hero_img_3.png",    
+    "link": "/about"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/img/hvacblog.png",  
+    "title": "10 HVAC Maintenance And Tune Up Tips Every Homeowner Should Know",
+    "desc": "If you’re looking for ways to control your finances, look no further than your heating and cooling system. Home heating and air conditioning systems claim more than half of total household energy consumption, and cost thousands of dollars to replace.",
+    "link": "https://www.forbes.com/home-improvement/hvac/hvac-maintenance-tips/"
+  },
+  {
+    "img": "/assets/img/cleanbc2.png",  
+    "title": "Clean BC Heat Rebate",
+    "desc": "Space heating is the largest use of energy in homes. A properly installed heat pump is two to three times more efficient than other alternatives and can provide you with both heating and cooling for today’s cold winters and hot summers. Air-to-water heat pumps use a hydronic distribution system to heat and cool the home with a series of radiators or in-floor heating.",
+    "link": "https://www.betterhomesbc.ca/rebates/air-to-water-heat-pump-rebate/"
+  },
+  {
+    "img": "/assets/img/fortis.png",  
+    "title": "Fortis BC Heat Pump Rebate ",
+    "desc": "A high-efficiency air source heat pump uses less electricity than electric furnaces or baseboards because it can extract heat from the air to provide space heating in winter and cooling in summer. Before beginning work, make sure you qualify for this rebate by reviewing the ...",
+    "link": "https://www.fortisbc.com/rebates/home/air-source-heat-pump-rebate"
+  }
+]
