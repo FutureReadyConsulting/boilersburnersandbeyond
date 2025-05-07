@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "title": "Air Conditioning",
+    "desc": "Residential, Industrial, Commercial, or Recreational building",
+    "img": "/assets/img/icons/service_icon_6.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "02",
+    "title": "Unit Heaters",
+    "desc": "Single room heaters installed onto the ceiling or wall of the room",
+    "img": "/assets/img/icons//service_icon_1.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "03",
+    "title": "Make Up Air Systems",
+    "desc": "Designed to bring outside air into a space that is being ventilated",
+    "img": "/assets/img/icons//service_icon_5.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "04",
+    "title": "Instant Hot Water Systems",
+    "desc": "Never run out of hot water again",
+    "img": "/assets/img/icons//service_icon_3.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "05",
+    "title": "Heat Pumps and Furnaces",
+    "desc": "We offer two types of resedential HVAC heating solutions: furnaces or heat pumps",
+    "img": "/assets/img/icons//service_icon_4.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "06",
+    "title": "Boilers",
+    "desc": "Boiler System Heating for Commercial, Industrial, Recreational Buildings",
+    "img": "/assets/img/icons//service_icon_3.svg",    
+    "link": "/service/service-details"
+  }    
+]
