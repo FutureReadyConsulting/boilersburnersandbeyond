@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 const Footer = () => {
+<<<<<<< HEAD
   const Services = [
     "Air Conditioning",
     "Unit Heaters",
@@ -49,6 +50,45 @@ const Footer = () => {
                 </svg>
               </a>
               {/* <a href="#" className="cs_social_btn cs_center">
+=======
+
+    const Services = [
+        'Air Conditioning',
+        'Unit Heaters',
+        'Make Up Air Systems',
+        'Instant Hot Water Systems',
+        'Heat Pumps and Furnaces',
+        'Boilers'
+      ];
+
+    const WorkingHours = [
+        {day:'Thu - Fri', time:'9:00 AM - 7:00 PM'},
+        {day:'Mon - Wed', time:'8:00 AM - 10:00 PM'},
+        {day:'Saturday', time:'7:00 AM - 9:00 PM'},
+        {day:'Sunday', time:'Close'},
+      ];
+
+      const QuickLinks = [
+        {title:'Home', link:'/'},
+        {title:'About', link:'/about'},
+        {title:'Services', link:'/service/service-details'},
+        {title:'Blog', link:'/blog'},
+        {title:'Contact', link:'/contact'}
+      ];      
+
+    return (
+        <footer className="cs_footer cs_style_1">
+          <div className="cs_footer_top">
+            <div className="container">
+              <div className="cs_footer_top_in">
+                <div className="cs_social_btns cs_style_1">
+                  <a href="https://www.facebook.com/boilersburnersandbeyond/" className="cs_social_btn cs_center">
+                  <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M8.71875 9H6.375V16H3.25V9H0.6875V6.125H3.25V3.90625C3.25 1.40625 4.75 0 7.03125 0C8.125 0 9.28125 0.21875 9.28125 0.21875V2.6875H8C6.75 2.6875 6.375 3.4375 6.375 4.25V6.125H9.15625L8.71875 9Z" fill="white"/>
+                  </svg>
+                  </a>
+                  {/* <a href="#" className="cs_social_btn cs_center">
+>>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6
                   <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M12.5508 2.90625C12.5508 3.04297 12.5508 3.15234 12.5508 3.28906C12.5508 7.08984 9.67969 11.4375 4.40234 11.4375C2.76172 11.4375 1.25781 10.9727 0 10.1523C0.21875 10.1797 0.4375 10.207 0.683594 10.207C2.02344 10.207 3.25391 9.74219 4.23828 8.97656C2.98047 8.94922 1.91406 8.12891 1.55859 6.98047C1.75 7.00781 1.91406 7.03516 2.10547 7.03516C2.35156 7.03516 2.625 6.98047 2.84375 6.92578C1.53125 6.65234 0.546875 5.50391 0.546875 4.10938V4.08203C0.929688 4.30078 1.39453 4.41016 1.85938 4.4375C1.06641 3.91797 0.574219 3.04297 0.574219 2.05859C0.574219 1.51172 0.710938 1.01953 0.957031 0.609375C2.37891 2.33203 4.51172 3.48047 6.89062 3.61719C6.83594 3.39844 6.80859 3.17969 6.80859 2.96094C6.80859 1.375 8.09375 0.0898438 9.67969 0.0898438C10.5 0.0898438 11.2383 0.417969 11.7852 0.992188C12.4141 0.855469 13.043 0.609375 13.5898 0.28125C13.3711 0.964844 12.9336 1.51172 12.332 1.86719C12.9062 1.8125 13.4805 1.64844 13.9727 1.42969C13.5898 2.00391 13.0977 2.49609 12.5508 2.90625Z" fill="white"/>
                     </svg>
@@ -64,6 +104,7 @@ const Footer = () => {
                     </svg>
 
                   </a> */}
+<<<<<<< HEAD
             </div>
             <div
               className="cs_footer_logo wow zoomIn"
@@ -153,6 +194,76 @@ const Footer = () => {
               </div>
             </div>
             {/* <div className="cs_footer_col">
+=======
+                </div>
+                <div className="cs_footer_logo wow zoomIn" data-wow-duration="0.9s" data-wow-delay="0.25s">
+                  <Link to="/"><img src="/assets/img/logo4.png" alt="Logo" /></Link>
+                  </div>
+                <div className="cs_footer_contact_card">
+                  <div className="cs_footer_contact_card_icon cs_white_bg cs_center">
+                    <img src="/assets/img/icons/call.svg" alt="" />
+                  </div>
+                  <div>
+                    <p className="cs_white_color cs_fs_14 mb-0">24/7 LINE</p>
+                    <h3 className="mb-0 cs_fs_24 cs_semibold cs_white_color"><a href="tel:+16046368877">+ 1 (604) 636 8877</a></h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="cs_main_footer cs_bg_filed cs_primary_bg cs_white_color" data-src="assets/img/footer_bg_1.jpg">
+            <div className="container">
+              <div className="cs_footer_row cs_type_1">
+                <div className="cs_footer_col">
+                  <div className="cs_footer_widget">
+                    <h2 className="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">Our Service</h2>
+                    <div className="cs_footer_widget_seperator">
+                      <span className="cs_accent_bg"></span>
+                      <span className="cs_white_bg"></span>
+                      <span className="cs_white_bg"></span>
+                    </div>
+                    <ul className="cs_footer_menu_2">
+                    {Services.map((item, i) => ( 
+                      <li key={i}><Link to="/service/service-details">{item}</Link></li>
+                    ))}
+                    </ul>
+                  </div>
+                </div>
+                <div className="cs_footer_col">
+                  <div className="cs_footer_widget">
+                    <h2 className="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">Working Hours:</h2>
+                    <div className="cs_footer_widget_seperator">
+                      <span className="cs_accent_bg"></span>
+                      <span className="cs_white_bg"></span>
+                      <span className="cs_white_bg"></span>
+                    </div>
+                    <ul className="cs_working_hours">
+                    {WorkingHours.map((item, i) => (                        
+                      <li key={i}>
+                        <span>{item.day}</span>
+                        <span>{item.time}</span>
+                      </li>
+                     ))}
+                    </ul>
+                  </div>
+                </div>
+                <div className="cs_footer_col">
+                  <div className="cs_footer_widget">
+                    <h2 className="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">Quick links</h2>
+                    <div className="cs_footer_widget_seperator">
+                      <span className="cs_accent_bg"></span>
+                      <span className="cs_white_bg"></span>
+                      <span className="cs_white_bg"></span>
+                    </div>
+                    <ul className="cs_footer_menu_2">
+                    {QuickLinks.map((item, i) => ( 
+                      <li key={i}><Link to={item.link}>{item.title} </Link></li>
+                    ))}
+                    </ul>
+                  </div>
+                </div>
+                {/* <div className="cs_footer_col">
+>>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6
                   <div className="cs_footer_widget">
                     <h2 className="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">Recent Post</h2>
                     <div className="cs_footer_widget_seperator">
@@ -201,6 +312,7 @@ const Footer = () => {
                     </ul>
                   </div>
                 </div> */}
+<<<<<<< HEAD
           </div>
         </div>
       </div>
@@ -213,10 +325,21 @@ const Footer = () => {
               Reserved.
             </div>
             {/* <ul className="cs_footer_menu cs_mp_0">
+=======
+              </div>
+            </div>
+          </div>
+          <div className="cs_footer_bottom cs_accent_bg cs_white_color">
+            <div className="container">
+              <div className="cs_footer_bottom_in">
+                <div className="cs_footer_copyright">Copyright@ {new Date().getFullYear()} <Link to="/">Boilers Burners and Beyond</Link>. All Rights Reserved.</div>
+                {/* <ul className="cs_footer_menu cs_mp_0">
+>>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6
                   <li><a href="#">Setting & Privacy </a></li>
                   <li><a href="#">FAQ</a></li>
                   <li><a href="#">Support</a></li>
                 </ul> */}
+<<<<<<< HEAD
           </div>
         </div>
       </div>
@@ -225,3 +348,13 @@ const Footer = () => {
 };
 
 export default Footer;
+=======
+              </div>
+            </div>
+          </div>
+        </footer>
+    );
+};
+
+export default Footer;
+>>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6
