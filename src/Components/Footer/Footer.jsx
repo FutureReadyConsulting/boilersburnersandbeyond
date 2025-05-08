@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 
 const Footer = () => {
-<<<<<<< HEAD
   const Services = [
     "Air Conditioning",
     "Unit Heaters",
@@ -104,7 +103,6 @@ const Footer = () => {
                     </svg>
 
                   </a> */}
-<<<<<<< HEAD
             </div>
             <div
               className="cs_footer_logo wow zoomIn"
@@ -312,7 +310,6 @@ const Footer = () => {
                     </ul>
                   </div>
                 </div> */}
-<<<<<<< HEAD
           </div>
         </div>
       </div>
@@ -339,7 +336,7 @@ const Footer = () => {
                   <li><a href="#">FAQ</a></li>
                   <li><a href="#">Support</a></li>
                 </ul> */}
-<<<<<<< HEAD
+            AD
           </div>
         </div>
       </div>
@@ -348,13 +345,3 @@ const Footer = () => {
 };
 
 export default Footer;
-=======
-              </div>
-            </div>
-          </div>
-        </footer>
-    );
-};
-
-export default Footer;
->>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6

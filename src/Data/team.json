@@ -1,15 +1,8 @@
 [
   {
-<<<<<<< HEAD
     "img": "/assets/img/team_member_1.png",
     "title": "Tyler McGrugan",
     "subTitle": "Owner/Director",
     "number": "+1 (604) 703-9457"
-=======
-    "img": "/assets/img/team_member_1.png",  
-    "title": "Tyler McGrugan",
-    "subTitle": "Owner/Director",
-    "number": "(+108) 444-0245"
->>>>>>> df63b5a824c080ab5f91069cd4b990c486a51cd6
   }
 ]
