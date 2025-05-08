@@ -34,12 +34,12 @@ const Contact = () => {
                     Content="5355 Chinook St. Chilliwack, <br>British Columbia V2R 0A4"
                   ></ContactCard>
                 </a>
-                <a href="tel:+16046368877">
+                <a href="tel:+16047039457">
                   {" "}
                   <ContactCard
                     img="/assets/img/icons/contact_icon_2.svg"
                     Title="Phone Number"
-                    Content="+1 (604) 636 8877"
+                    Content="+1 (604) 703-9457"
                   ></ContactCard>
                 </a>
                 <a href="sales@boilersburnersandbeyond.com">

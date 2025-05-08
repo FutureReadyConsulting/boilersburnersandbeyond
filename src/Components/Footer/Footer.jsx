@@ -120,7 +120,7 @@ const Footer = () => {
               <div>
                 <p className="cs_white_color cs_fs_14 mb-0">24/7 LINE</p>
                 <h3 className="mb-0 cs_fs_24 cs_semibold cs_white_color">
-                  <a href="tel:+16046368877">+ 1 (604) 636 8877</a>
+                  <a href="tel:+16046368877"> +1 (604) 703-9457</a>
                 </h3>
               </div>
             </div>
