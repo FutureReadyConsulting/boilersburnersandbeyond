@@ -136,7 +136,7 @@ const Footer = () => {
             <div className="cs_footer_col">
               <div className="cs_footer_widget">
                 <h2 className="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color cs_mb_10">
-                  Our Service
+                  Our Services
                 </h2>
                 <div className="cs_footer_widget_seperator">
                   <span className="cs_accent_bg"></span>
